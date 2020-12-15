@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border-radius: 1%;
+  }
+
+html { 
+    background: url(images/usgs-uGrT85dVK9U-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header {
+    color:  #E0E1DC;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    padding: 1.5em;
+    background-color: #525479ff;
+    text-align: center;
+    border: 0.1em solid #525479ff;
+}
+
+main {
+  text-align: center;
+  width:80%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 1em;
+  border: 0.1em solid #525479ff;
+  color: #E0E1DC;
+  background-color: #525479ff;
+}
+
+p {
+  margin:1.2em;
+}
+
+li {
+  display: inline-block;
+  margin: 1em;
+  list-style: none;
+  font-size: 1.3em;
+}
+
+fieldset{
+  padding: 1.2em;
+  text-align: left;
+}
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    height: 2em;
+    width: 8em;
+    text-transform: uppercase;
+    background-color: #ffaf39;
+    border: 2px solid #e28800;
+    
+    font-weight: bold;
+    font-size: 1.2em;
+    /* Add glow? */
+    transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  color: #1e2424;
+  box-shadow: 0 5px 15px #272a1f;
+ }
+
+/* Space between questions */
+.option { 
+  margin-bottom: 1.2em; 
+}
+
+input:hover {
+  color: #ffe9b3;
+  box-shadow: 0 5px 15px #272a1f;
+ }
+
+.fa-check {
+  color: #46DC18;
+  /* This isn't working to increase size */
+  font-size:5em;
+}
+
+.fa-times {
+  color: #F4350C;
+  font-size: 5em;
+}
+
+.final-score{
+  font-weight: normal;
+}
+
+a {
+  color: #1e2424;
+  padding: 1.2em;
+  text-align: left;
+}
+
+@media screen and (min-width: 900px){
+  main {
+    width:50%;
+  }
+  fieldset{
+    padding: 1.6em;
+  }
+  .button {
+    margin-top: 1.6em;
+  }
+}
