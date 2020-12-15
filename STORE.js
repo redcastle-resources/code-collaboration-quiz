@@ -6,13 +6,13 @@ const STORE = [
     options: ["It allows collaboration with minimal mess and confusion.","You can easily recover from mistakes that 'break' your code.","It makes it easy to review code.", "All of the above!"],
     answer: "All of the above!",
     displayAnswer: "All of the above! <br>Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.",
-    source: "https://en.wikipedia.org/wiki/Git"},
+    source: "https://xkcd.com/1597/"},
     //2
-    {question:"Put your git/github question here. Make an array of multiple choice answers.",
+    {question:"Put your quiz question here. Make an array of multiple choice answers.",
     options: ["funny answer 1","weird answer 2","correct answer 3"],
     answer: "correct answer 3",
     displayAnswer: "Make sure that the string for your correct answer EXACTLY matches the correct answer in the array...",
-    source: "https://xkcd.com/1597/"},
+    source: "https://en.wikipedia.org/wiki/Git"},
     //3
    {question:"Which of the following statements describes another important role of forests?",
     options: ["Forests lower the water table significantly, creating wetland habitat.","Forests reduce drought effects by retaining water, preventing run-off and mitigating flood damage.","Forests create natural habitat barriers, preventing the spread of native species."],
