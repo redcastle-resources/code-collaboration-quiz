@@ -14,7 +14,7 @@ This quiz has some issues... Use the GitHub issues tracker to view these issues 
 Change some colors or layout to make the quiz more visually appealing. 
 
 ## Option 4 - Add to the the list of GTAC programmers favorite Git & GitHub learning resources
-Practice writing good markdown by adding to the list of learning resources below 
+Practice writing good markdown by adding to the list of learning resources below. Here is a good place to start if you are new: [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/).
 
 # Instructions 
 For this exercise, we want to you to follow a few collaboration **best practices**. To make your contribution, please follow the protocol steps outlined below:
@@ -29,3 +29,5 @@ For this exercise, we want to you to follow a few collaboration **best practices
 Any questions, reach out to one of your GTAC programmer colleauges to help you out! 
 
 ## Learning resources for Git & GitHub
+*Make a list here*.
+![XKCD](/images/XKCDgit.png)
