@@ -2,17 +2,17 @@
 // Question database (array of objects)
 const STORE = [
     //1
-   {question:"What proportion of the world’s land area is covered by forest and what proportion of land-based plants and animal species do forests support?",
-    options: ["One third of land cover and over half of land species.","Two thirds of land cover and less than half of land species.","Ten percent of land cover and one quarter of land  species."],
-    answer: "One third of land cover and over half of land species.",
-    displayAnswer: "Forests cover one-third of the world’s land area and host more than half of the world’s land-based plant and animal species.",
-    source: "http://www.fao.org/zhc/detail-events/en/c/1033884/"},
+   {question:"What is the coolest thing about using git and GitHub?",
+    options: ["It allows collaboration with minimal mess and confusion.","You can easily recover from mistakes that 'break' your code.","It makes it easy to review code.", "All of the above!"],
+    answer: "All of the above!",
+    displayAnswer: "All of the above! <br>Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.",
+    source: "https://en.wikipedia.org/wiki/Git"},
     //2
-    {question:"Which of the following statements describes the role of forests in global climate?",
-    options: ["Forests do not play a significant role in the global carbon cycle.","Trees are a carbon sink and the world’s forests remove an estimated 2.1 Gigatons of carbon dioxide annually.","Trees are a significant source of greenhouse gas, producing large amounts of carbon dioxide."],
-    answer: "Trees are a carbon sink and the world’s forests remove an estimated 2.1 Gigatons of carbon dioxide annually.",
-    displayAnswer: "Trees are a great carbon sink, with the world’s forests removing an estimated 2.1 Gigatons of carbon dioxide annually – that’s 2.1 billion tons! This plays a fundamental role in balancing the world’s carbon cycle and helping to combat climate change.",
-    source: "http://www.fao.org/zhc/detail-events/en/c/1033884/"},
+    {question:"Put your git/github question here. Make an array of multiple choice answers.",
+    options: ["funny answer 1","weird answer 2","correct answer 3"],
+    answer: "correct answer 3",
+    displayAnswer: "Make sure that the string for your correct answer EXACTLY matches the correct answer in the array...",
+    source: "https://xkcd.com/1597/"},
     //3
    {question:"Which of the following statements describes another important role of forests?",
     options: ["Forests lower the water table significantly, creating wetland habitat.","Forests reduce drought effects by retaining water, preventing run-off and mitigating flood damage.","Forests create natural habitat barriers, preventing the spread of native species."],
