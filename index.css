@@ -14,13 +14,13 @@ html {
 }
 
 header {
-    color:  #E0E1DC;
+    color:  #FCFDFC;
     margin-top: 3em;
     margin-bottom: 1em;
     padding: 1.5em;
     background-color: #525479ff;
     text-align: center;
-    border: 0.1em solid #525479ff;
+    border: 0.1em solid  #0B0A0A;
 }
 
 main {
@@ -30,8 +30,8 @@ main {
   flex-direction: column;
   margin: auto;
   padding: 1em;
-  border: 0.1em solid #525479ff;
-  color: #E0E1DC;
+  border: 0.1em solid #0B0A0A;
+  color: #FCFDFC;
   background-color: #525479ff;
 }
 
