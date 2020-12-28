@@ -29,5 +29,4 @@ For this exercise, we want to you to follow a few collaboration **best practices
 Any questions, reach out to one of your GTAC programmer colleauges to help you out! 
 
 ## Learning resources for Git & GitHub
-*Make a list here*.
-![XKCD](/images/XKCDgit.png)
+*Make a list here*.  ![XKCD](/images/XKCDgit.png)

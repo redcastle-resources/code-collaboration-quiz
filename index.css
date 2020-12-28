@@ -51,6 +51,21 @@ fieldset{
   text-align: left;
 }
 
+#code-gremlin{
+  background-color:red;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 142px;
+  height: 142px;
+  padding: 4px;
+  margin: 4px;
+}
+#code-gremlin img{
+  height:100%;
+  width:100%;
+}
+
 .button {
     margin-left: auto;
     margin-right: auto;
